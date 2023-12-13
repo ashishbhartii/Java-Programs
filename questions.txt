@@ -1,0 +1,115 @@
+ Basics
+    1. WAJP to print a statement.
+    2. WAJP to print a greet message.
+    3. WAJP to add three numbers.
+    4. WAJP to take a numeric input and print it.
+    5. WAPJP to take an input and check whether it is integer or not.
+    6. WAJP to convert miles into KM and Vice Versa.
+    7. WAJP to print natural numbers from 1 to 10.
+    8. WAJP to evaluate the expression 7 / 4 * 9 / 2 = ??
+    9. WAJP to find the percentage of marks a student obtains out of his five subjects.
+    10.WAJP to input 2 numbers and the find the greater one.
+    11.WAJP to enter a grade and then encrypt it and decrypyt it as per the user.
+    12.WAJP to evaluate the following Expression [ (v^2 - u^2) / 2as ]
+    13.WAJP to find the greater and the smaller among the three numbers.
+    14.WAJP to design a calculator by taking two number as an input.
+    15.WAJP to perform temperature conversion.
+    16.WAJP to find the percentage of marks a student obtains out of his five subjects and find his grade 
+        (A=85-100  B=70-85  C=50-70  D=40-50  E=<40)
+    17.WAJP to Calculate income tax paid by the employees as per the Govt Slabs
+        [ 2.5L - 5.0L -> 5% Tax     5.0L - 10.0 L ->20% Tax    10.0L - above ->30% Tax ]
+    18.WAJP to enter a Year and check ehether its a Leap Year or Not.
+    19. WAJP to print first 10 even numbers and odd numbers .
+    20. WAJP to print the even numbers and odd numbers within a range given by the user.
+    21. WAJP to print the multiplication table of any given number.
+    22. WAJP to check if a number given by the user is prime or not.
+    23. WAJP to check if a number is palindrome or not.
+    24. WAJP to print the reverse of  number.
+    25. WAJP to print the Fibonacci Series.
+    26. WAJP to print all the factors of a given number.
+    27. WAJP to print the factorial of a given number.
+    28. WAJP to print the permutation and combination of any given number as per the user choice.
+    29. WAJP to print the LCM of two numbers.
+    30. WAJP to print the HCF of two numbers.
+
+Nested_loops
+    1. *
+       **
+       ***
+    2. ****
+       ***
+       **
+       *
+    3. 1
+       22
+       333
+       4444
+    4. 4444
+       333
+       22
+       1
+    5. 1
+       12
+       123
+       1234
+    6. 1234
+       123
+       12
+       1
+    7. 1
+       23
+       456
+       78910
+    8. 1
+       12
+       234
+       3456
+       45678
+    9. 1----
+       -2---
+       --3--
+       ---4-
+       ----5
+    10.----1
+       ---2-
+       --3--
+       -4---
+       5----
+    11. WAJP to print a solid square or rectangel as per the user.
+    12. WAJP to print a hollow square or rectangle box.
+    13. WAJP to print X box using square or rectangle.
+    14. WAJP to find all the prime numbers with in a given range.
+    15. WAJP to print all the Prime numbers with a range along with their factorials.
+    16. WAJP to find all the palindrome number within a given range.
+    17. WAJP to find all the armstrong number within a given range.
+
+
+
+ Arrays
+    1. WAJP to make an array user dependent and store some elements and print it.
+    2. WAJP to store even numbers & odd numbers seperately in an array.
+    3. WAJP to store 5 names in an array input from the user and display it.
+    4. 
+
+
+Strings   
+    1. WAJP to Input a string and print it.
+    2. WAJP to concatenate two string.
+    3. WAP to enter a sentence and print it.
+    4. WAJP to find the frquency of a character in a given string.
+    5. WAJp to input a string and fins its length.
+    6. WAJP to and do casse conversion.
+    7. WAJP to and replace a particular character with a user input character.
+    8. WAJP to input two strings and check for their equality (case sensitivity shall be considered)
+    9. WAJP to input a string with misclaneous white spaces and trim all the white spaces.
+    10.WAJP to enter a string and trim it as per the user utilize concept of substring.
+    11.WAJP to enter a string and check if they starts with a particular character or not.
+    12.WAJP to enter a string and check if they ends with a particular character or not.
+    13.WAJP to enter a string and return the character at a particular index.
+    14.WAJP to enter a string and find out the index of a particular character.
+    15.WAJP to and replace a particular whiteSpaces with a user input underscores.
+    16.WAJP to enter a string sentence and check for accidental double or tripple spaces in it.
+    17.WAJP to find the type of website entered by the user.
+       (.com=commercial  .edu=educational  .org=organization .in=indian)
+
+
